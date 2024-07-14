@@ -1,0 +1,7 @@
+monolog:
+  handlers:
+    smtpValidator:
+      level: debug
+      type: rotating_file
+      max_files: 14
+      path: '%kernel.logs_dir%/%kernel.environment%/main.log'

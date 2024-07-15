@@ -1,5 +1,5 @@
 {
-    "name": "volmarg/smtp-email-validator",
+    "name": "volmarg/email-validator-bundle",
     "type": "symfony-bundle",
     "license": "proprietary",
     "minimum-stability": "stable",
